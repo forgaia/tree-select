@@ -97,6 +97,7 @@
     "@types/styled-components": "5.0.1",
     "adal-angular": "1.0.17",
     "antd": "4.0.2",
+    "classnames": "2.2.6",
     "connected-react-router": "6.7.0",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.2",
@@ -121,10 +122,9 @@
     "styled-components": "5.0.1"
   },
   "devDependencies": {
-    "typescript": "3.8.3",
-    "react-scripts": "3.4.0",
     "@babel/runtime": "7.8.4",
     "@commitlint/cli": "8.3.5",
+    "@types/classnames": "2.2.10",
     "@typescript-eslint/eslint-plugin": "2.21.0",
     "@typescript-eslint/parser": "2.21.0",
     "babel-plugin-import": "1.13.0",
@@ -153,8 +153,10 @@
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",
     "react-app-rewired": "2.1.5",
+    "react-scripts": "3.4.0",
     "sass-loader": "8.0.2",
     "source-map-explorer": "2.3.1",
-    "ts-loader": "6.2.1"
+    "ts-loader": "6.2.1",
+    "typescript": "3.8.3"
   }
 }
