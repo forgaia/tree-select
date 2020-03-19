@@ -1,7 +1,0 @@
-{
-  "chromeWebSecurity": false,
-  "port": 4002,
-  "browser": "chrome",
-  "viewportWidth": 1400,
-  "viewportHeight": 700
-}

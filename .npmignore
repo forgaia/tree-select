@@ -29,3 +29,17 @@ yarn-error.log*
 /side-suite-*
 /cypress/videos
 /cypress/screenshots
+
+tests/
+examples/
+src/
+scripts/
+.storybook/
+
+.eslintignore
+.eslintrc.js
+.fatherrc.js
+.gitignore
+jest.config.js
+tsconfig.json
+tslint.json
